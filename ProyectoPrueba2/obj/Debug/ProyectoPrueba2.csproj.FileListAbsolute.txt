@@ -1,0 +1,17 @@
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\bin\Debug\ProyectoPrueba2.exe.config
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\bin\Debug\ProyectoPrueba2.exe
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\bin\Debug\ProyectoPrueba2.pdb
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\obj\Debug\ProyectoPrueba2.csprojAssemblyReference.cache
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\obj\Debug\ProyectoPrueba2.Form1.resources
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\obj\Debug\ProyectoPrueba2.Properties.Resources.resources
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\obj\Debug\ProyectoPrueba2.Registrar.resources
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\obj\Debug\ProyectoPrueba2.csproj.GenerateResource.cache
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\obj\Debug\ProyectoPrueba2.csproj.CoreCompileInputs.cache
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\obj\Debug\ProyectoPrueba2.exe
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\obj\Debug\ProyectoPrueba2.pdb
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\bin\Debug\EntityFramework.dll
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\bin\Debug\EntityFramework.xml
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\obj\Debug\ProyectoPrueba2.csproj.CopyComplete
+C:\Users\melen\source\repos\ProyectoPrueba2\ProyectoPrueba2\obj\Debug\ProyectoPrueba2.Model.DOCS.resources

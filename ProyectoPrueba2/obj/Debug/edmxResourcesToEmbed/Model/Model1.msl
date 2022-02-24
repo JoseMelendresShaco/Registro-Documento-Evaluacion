@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="promotorModelStoreContainer" CdmEntityContainer="promotorEntities4">
+    <EntitySetMapping Name="documentos">
+      <EntityTypeMapping TypeName="promotorModel.documentos">
+        <MappingFragment StoreEntitySet="documentos">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="RFCProspecto" ColumnName="RFCProspecto" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="realname" ColumnName="realname" />
+          <ScalarProperty Name="documento" ColumnName="documento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
